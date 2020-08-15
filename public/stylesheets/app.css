@@ -1,0 +1,62 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-view-foamy-waves-beach-sunset-captured-domburg-netherlands_181624-7110.jpg?size=626&ext=jpg&ga=GA1.2.158358439.1595610804");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:10%;
+    text-decoration: center;
+    font-family: serif;
+}
+
+h1{
+    display: block;
+font-size: 4rem;
+font-weight:  300;
+letter-spacing: 1.7rem;
+color: #ffffff;
+}
+h5
+{
+    display: block;
+font-size: 1.5rem;
+font-weight:  300;
+letter-spacing: 0.4rem;
+color: #ffffff;
+}
+
+.container
+{
+    text-align: center;
+    
+}
+.searchbar
+{
+    margin-top: 10%;
+   
+}
+input
+{
+    width: 60%;
+    height: 30px;
+    border-radius: 8px;
+    border-style: solid;
+    border-bottom-color: #40E0D0;
+    border-width: medium;
+
+} 
+button
+{
+    margin-top: 20px;
+    width: 10%;
+    height: 40px;
+    border-radius: 8px; /* Green */
+    text-align: center;
+    font-size: 16px;
+    background-color:  	#ffffff;
+    color: black;
+    border-bottom-color: #0bf1da;
+    border-width: medium;
+}
+button:hover
+{
+    background-color: bisque;
+}

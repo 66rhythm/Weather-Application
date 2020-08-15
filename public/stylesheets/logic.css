@@ -1,0 +1,12 @@
+body{
+
+background-image: url("https://image.freepik.com/free-photo/sky-background-sunrise_1398-2652.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-top: 10em; 
+}
